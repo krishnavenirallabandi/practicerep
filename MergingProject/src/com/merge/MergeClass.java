@@ -10,6 +10,13 @@ public class MergeClass {
 		System.out.println("subtraction of a and b is    "+diff);
 		System.out.println("subtraction code");
 		
+		//multiplication
+		int c=5;
+		int d=10;
+		int mul=0;
+		mul=c*d;
+		System.out.println("subtraction of c&d is   "+mul);
+		System.out.println("multiplication code");
 	}
 
 }
