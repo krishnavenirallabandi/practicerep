@@ -9,6 +9,7 @@ public class MergeClass1 {
 		int e=2;
 		int div=10/2;
 		System.out.println("division is"+div);
+		System.out.println("this is division code");
 
 	}
 
