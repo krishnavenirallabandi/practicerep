@@ -8,7 +8,7 @@ public class MergeClass {
 		int sum=0;
 		sum=a+b;
 		System.out.println("addition of a and b is    "+sum);
-		
+		System.out.println("addition code");
 	}
 
 }
