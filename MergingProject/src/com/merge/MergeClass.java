@@ -8,6 +8,7 @@ public class MergeClass {
 		int diff=0;
 		diff=b-a;
 		System.out.println("subtraction of a and b is    "+diff);
+		System.out.println("subtraction code");
 		
 	}
 
